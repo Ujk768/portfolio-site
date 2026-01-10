@@ -1,0 +1,848 @@
+{
+  "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m/playlists?offset=0&limit=50&locale=en-US,en;q%3D0.7",
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 19,
+  "items": [
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7rRSZ4zA3sH9Y3SkwtYj7W"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7rRSZ4zA3sH9Y3SkwtYj7W",
+      "id": "7rRSZ4zA3sH9Y3SkwtYj7W",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029678de0aa0a65b9b35f401ea",
+          "height": null,
+          "width": null
+        }
+      ],
+      "name": "Afro",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAAAhUN40CyLIuDUQu1K3pi5nvArrR6",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7rRSZ4zA3sH9Y3SkwtYj7W/tracks",
+        "total": 1
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7rRSZ4zA3sH9Y3SkwtYj7W",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4A0yrFT2KG9MLrcZtpjaWO"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4A0yrFT2KG9MLrcZtpjaWO",
+      "id": "4A0yrFT2KG9MLrcZtpjaWO",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0232b9c18c7c4e4f0a20608918ab67616d00001e02ba5db46f4b838ef6027e6f96ab67616d00001e02bdcc3b587b5249932bc415c2ab67616d00001e02f6b55ca93bd33211227b502b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0232b9c18c7c4e4f0a20608918ab67616d00001e02ba5db46f4b838ef6027e6f96ab67616d00001e02bdcc3b587b5249932bc415c2ab67616d00001e02f6b55ca93bd33211227b502b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0232b9c18c7c4e4f0a20608918ab67616d00001e02ba5db46f4b838ef6027e6f96ab67616d00001e02bdcc3b587b5249932bc415c2ab67616d00001e02f6b55ca93bd33211227b502b",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "❤️",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAADx9Z6yEq4AYF5+zCKJq+9AxeB8zi",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4A0yrFT2KG9MLrcZtpjaWO/tracks",
+        "total": 12
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4A0yrFT2KG9MLrcZtpjaWO",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5awMqyCf3pciyD1X4qoRbJ"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5awMqyCf3pciyD1X4qoRbJ",
+      "id": "5awMqyCf3pciyD1X4qoRbJ",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0260a98c3be4daffefe9014c7eab67616d00001e026c20c4638a558132ba95bc39ab67616d00001e028fba5806a323efd272677c4dab67616d00001e02f48373049184306e0746d6a7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0260a98c3be4daffefe9014c7eab67616d00001e026c20c4638a558132ba95bc39ab67616d00001e028fba5806a323efd272677c4dab67616d00001e02f48373049184306e0746d6a7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0260a98c3be4daffefe9014c7eab67616d00001e026c20c4638a558132ba95bc39ab67616d00001e028fba5806a323efd272677c4dab67616d00001e02f48373049184306e0746d6a7",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "White girl gym music",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAAHQSsVOUYLNG9MZlVR6D6DG4M4boe",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5awMqyCf3pciyD1X4qoRbJ/tracks",
+        "total": 19
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5awMqyCf3pciyD1X4qoRbJ",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6Awp8uLCQDU2TwJX5QjkuX"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6Awp8uLCQDU2TwJX5QjkuX",
+      "id": "6Awp8uLCQDU2TwJX5QjkuX",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e021dc7483a9fcfce54822a2f19ab67616d00001e022ffc2c580b6595a3e675a730ab67616d00001e0286b0c9728ad3ed338eaeea79ab67616d00001e02e6efeff81a318670a292090f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e021dc7483a9fcfce54822a2f19ab67616d00001e022ffc2c580b6595a3e675a730ab67616d00001e0286b0c9728ad3ed338eaeea79ab67616d00001e02e6efeff81a318670a292090f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e021dc7483a9fcfce54822a2f19ab67616d00001e022ffc2c580b6595a3e675a730ab67616d00001e0286b0c9728ad3ed338eaeea79ab67616d00001e02e6efeff81a318670a292090f",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "Old Time Hits",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAAPQ30s+pBqhO8BcmWaLn592fs1V2y",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6Awp8uLCQDU2TwJX5QjkuX/tracks",
+        "total": 57
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6Awp8uLCQDU2TwJX5QjkuX",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4XGtj8vypKUhdzFvOADBVs"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4XGtj8vypKUhdzFvOADBVs",
+      "id": "4XGtj8vypKUhdzFvOADBVs",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0219d85a472f328a6ed9b704cfab67616d00001e0258267bd34420a00d5cf83a49ab67616d00001e029b9b36b0e22870b9f542d937ab67616d00001e029e1cfc756886ac782e363d79",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0219d85a472f328a6ed9b704cfab67616d00001e0258267bd34420a00d5cf83a49ab67616d00001e029b9b36b0e22870b9f542d937ab67616d00001e029e1cfc756886ac782e363d79",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0219d85a472f328a6ed9b704cfab67616d00001e0258267bd34420a00d5cf83a49ab67616d00001e029b9b36b0e22870b9f542d937ab67616d00001e029e1cfc756886ac782e363d79",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "New mix",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAAGxvT9gMFiH7guk4FPBywM+aUqnDi",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4XGtj8vypKUhdzFvOADBVs/tracks",
+        "total": 18
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4XGtj8vypKUhdzFvOADBVs",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5cXPfD2VT1G80HZBoArVK5"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5cXPfD2VT1G80HZBoArVK5",
+      "id": "5cXPfD2VT1G80HZBoArVK5",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e02982320da137d0de34410df61ab67616d00001e02bb1138165ad4ec2306f4e886ab67616d00001e02c6e0948bbb0681ff29cdbae8ab67616d00001e02ee1358e06fa1805759508862",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e02982320da137d0de34410df61ab67616d00001e02bb1138165ad4ec2306f4e886ab67616d00001e02c6e0948bbb0681ff29cdbae8ab67616d00001e02ee1358e06fa1805759508862",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e02982320da137d0de34410df61ab67616d00001e02bb1138165ad4ec2306f4e886ab67616d00001e02c6e0948bbb0681ff29cdbae8ab67616d00001e02ee1358e06fa1805759508862",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "New English",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAACsxMl8EK2i+rwOZ9GpeWH9AWYbbh",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5cXPfD2VT1G80HZBoArVK5/tracks",
+        "total": 6
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5cXPfD2VT1G80HZBoArVK5",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7iNX2pRSAt9ehQG4cT4wR5"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7iNX2pRSAt9ehQG4cT4wR5",
+      "id": "7iNX2pRSAt9ehQG4cT4wR5",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e02915c0a9491052bebed419720ab67616d00001e029e1ea01fabad76f477bcbbffab67616d00001e02b6b3b7f26f0bc0e0197163a0ab67616d00001e02e7db696fd15b94e69cf7794c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e02915c0a9491052bebed419720ab67616d00001e029e1ea01fabad76f477bcbbffab67616d00001e02b6b3b7f26f0bc0e0197163a0ab67616d00001e02e7db696fd15b94e69cf7794c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e02915c0a9491052bebed419720ab67616d00001e029e1ea01fabad76f477bcbbffab67616d00001e02b6b3b7f26f0bc0e0197163a0ab67616d00001e02e7db696fd15b94e69cf7794c",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "South Hits",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAAB4m/a4jm1TmmihKeIjkpCs5gG+fJ",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7iNX2pRSAt9ehQG4cT4wR5/tracks",
+        "total": 6
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7iNX2pRSAt9ehQG4cT4wR5",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1IjqrvCDeLylINGUQDrpp9"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1IjqrvCDeLylINGUQDrpp9",
+      "id": "1IjqrvCDeLylINGUQDrpp9",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0221d546b7511792c3aa5b7eeeab67616d00001e0290b2ea6298a6e5d98e60d6ecab67616d00001e02dda2b86297d3bfb519f8b785ab67616d00001e02ef0d4234e1a645740f77d59c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0221d546b7511792c3aa5b7eeeab67616d00001e0290b2ea6298a6e5d98e60d6ecab67616d00001e02dda2b86297d3bfb519f8b785ab67616d00001e02ef0d4234e1a645740f77d59c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0221d546b7511792c3aa5b7eeeab67616d00001e0290b2ea6298a6e5d98e60d6ecab67616d00001e02dda2b86297d3bfb519f8b785ab67616d00001e02ef0d4234e1a645740f77d59c",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "Spanish",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAAES4vbuGMAGcEfCrQbNP8pyQHVuva",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1IjqrvCDeLylINGUQDrpp9/tracks",
+        "total": 16
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1IjqrvCDeLylINGUQDrpp9",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4w287Vd9kejhEztpCl9WSG"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4w287Vd9kejhEztpCl9WSG",
+      "id": "4w287Vd9kejhEztpCl9WSG",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e022c9214c857ff01deccc34592ab67616d00001e022d564195ed3dd7b70d64862cab67616d00001e024bc66095f8a70bc4e6593f4fab67616d00001e028daa8ac6367fc997c1873b9b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e022c9214c857ff01deccc34592ab67616d00001e022d564195ed3dd7b70d64862cab67616d00001e024bc66095f8a70bc4e6593f4fab67616d00001e028daa8ac6367fc997c1873b9b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e022c9214c857ff01deccc34592ab67616d00001e022d564195ed3dd7b70d64862cab67616d00001e024bc66095f8a70bc4e6593f4fab67616d00001e028daa8ac6367fc997c1873b9b",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "Random Mix",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAARwlNYrc+Lp9m3F2SombKTnMWxdRk",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4w287Vd9kejhEztpCl9WSG/tracks",
+        "total": 39
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4w287Vd9kejhEztpCl9WSG",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1lSoysAsRoiyh8p3aL2UoL"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1lSoysAsRoiyh8p3aL2UoL",
+      "id": "1lSoysAsRoiyh8p3aL2UoL",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e029e2f95ae77cf436017ada9cbab67616d00001e02e5a95573f1b91234630fd2cfab67616d00001e02ec96e006b8bdfc582610ec13ab67616d00001e02fc8633e22a7dba6aab817bff",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e029e2f95ae77cf436017ada9cbab67616d00001e02e5a95573f1b91234630fd2cfab67616d00001e02ec96e006b8bdfc582610ec13ab67616d00001e02fc8633e22a7dba6aab817bff",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e029e2f95ae77cf436017ada9cbab67616d00001e02e5a95573f1b91234630fd2cfab67616d00001e02ec96e006b8bdfc582610ec13ab67616d00001e02fc8633e22a7dba6aab817bff",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "Old English",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAARE4yMXVdHLISKS6HethiyOCZm0YQ",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1lSoysAsRoiyh8p3aL2UoL/tracks",
+        "total": 62
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1lSoysAsRoiyh8p3aL2UoL",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3Ln1sqYQInCoI3R3q9IpwQ"
+      },
+      "href": "https://api.spotify.com/v1/playlists/3Ln1sqYQInCoI3R3q9IpwQ",
+      "id": "3Ln1sqYQInCoI3R3q9IpwQ",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e020b9cb672be380559d195047eab67616d00001e02757e3e10c59c6e71affce6d6ab67616d00001e0283e569e0fa43464cb8525561ab67616d00001e02ccb8340447b428d8b4330720",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e020b9cb672be380559d195047eab67616d00001e02757e3e10c59c6e71affce6d6ab67616d00001e0283e569e0fa43464cb8525561ab67616d00001e02ccb8340447b428d8b4330720",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e020b9cb672be380559d195047eab67616d00001e02757e3e10c59c6e71affce6d6ab67616d00001e0283e569e0fa43464cb8525561ab67616d00001e02ccb8340447b428d8b4330720",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "New Bollywood",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAAOzgbJ8M7tc8YgAfJ9rjw1sCT2KWm",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3Ln1sqYQInCoI3R3q9IpwQ/tracks",
+        "total": 42
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:3Ln1sqYQInCoI3R3q9IpwQ",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3lKLAQtHLJxFD8kFYiwrze"
+      },
+      "href": "https://api.spotify.com/v1/playlists/3lKLAQtHLJxFD8kFYiwrze",
+      "id": "3lKLAQtHLJxFD8kFYiwrze",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0217d1a29200e605940855d07cab67616d00001e022832ed742ede7e7060c817d1ab67616d00001e023d6dda10b24dbdc0afcc69e4ab67616d00001e02cc761ba55b0e7abad4539abe",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0217d1a29200e605940855d07cab67616d00001e022832ed742ede7e7060c817d1ab67616d00001e023d6dda10b24dbdc0afcc69e4ab67616d00001e02cc761ba55b0e7abad4539abe",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0217d1a29200e605940855d07cab67616d00001e022832ed742ede7e7060c817d1ab67616d00001e023d6dda10b24dbdc0afcc69e4ab67616d00001e02cc761ba55b0e7abad4539abe",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "Fifa 16  ⚽️",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAAQ4L8pb6HrUIBLGBWlrlzcF0SakjX",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3lKLAQtHLJxFD8kFYiwrze/tracks",
+        "total": 48
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:3lKLAQtHLJxFD8kFYiwrze",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "A collection of tunes I played as the DJ of the pub DeeTee during my college days in Manipal, India 2008-2012 batch. Perfect for a drinking night.....",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/57BT87lSPsHQUb1K11Mnji"
+      },
+      "href": "https://api.spotify.com/v1/playlists/57BT87lSPsHQUb1K11Mnji",
+      "id": "57BT87lSPsHQUb1K11Mnji",
+      "images": [
+        {
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f8a943d1699e67ebb8b7dea6",
+          "height": null,
+          "width": null
+        }
+      ],
+      "name": "DeeTee 2008-2012",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/31hixkyosnd3alvyb5uezetmdl4m"
+        },
+        "href": "https://api.spotify.com/v1/users/31hixkyosnd3alvyb5uezetmdl4m",
+        "id": "31hixkyosnd3alvyb5uezetmdl4m",
+        "type": "user",
+        "uri": "spotify:user:31hixkyosnd3alvyb5uezetmdl4m",
+        "display_name": "Gaurav Krishnan (Ghost Intent)"
+      },
+      "public": true,
+      "snapshot_id": "AAAA+qQ6Mrx9jb2NC7nF+34YwQu3Ifxw",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/57BT87lSPsHQUb1K11Mnji/tracks",
+        "total": 114
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:57BT87lSPsHQUb1K11Mnji",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "trial to check how to use spotify api",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5EQ1OfR5LP1Z5Em1x1tezm"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5EQ1OfR5LP1Z5Em1x1tezm",
+      "id": "5EQ1OfR5LP1Z5Em1x1tezm",
+      "images": null,
+      "name": "Playlist through postman api",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAAAf54ZOKn8LDSH+C4Sb0MBoulWZeN",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5EQ1OfR5LP1Z5Em1x1tezm/tracks",
+        "total": 0
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5EQ1OfR5LP1Z5Em1x1tezm",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/327x9DbiIL4asib9JHjUeX"
+      },
+      "href": "https://api.spotify.com/v1/playlists/327x9DbiIL4asib9JHjUeX",
+      "id": "327x9DbiIL4asib9JHjUeX",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e021dacfbc31cc873d132958af9ab67616d00001e0226f7f19c7f0381e56156c94aab67616d00001e02346d77e155d854735410ed18ab67616d00001e02d9194aa18fa4c9362b47464f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e021dacfbc31cc873d132958af9ab67616d00001e0226f7f19c7f0381e56156c94aab67616d00001e02346d77e155d854735410ed18ab67616d00001e02d9194aa18fa4c9362b47464f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e021dacfbc31cc873d132958af9ab67616d00001e0226f7f19c7f0381e56156c94aab67616d00001e02346d77e155d854735410ed18ab67616d00001e02d9194aa18fa4c9362b47464f",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "Rap 1",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAAnV2+Q3vEIeCmwRyUavJpuQ4ppkV8",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/327x9DbiIL4asib9JHjUeX/tracks",
+        "total": 117
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:327x9DbiIL4asib9JHjUeX",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2MApeXUtaJZsZyFH5BMZHV"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2MApeXUtaJZsZyFH5BMZHV",
+      "id": "2MApeXUtaJZsZyFH5BMZHV",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e021f7077ae1018b5fbab08dfa8ab67616d00001e0221ebf49b3292c3f0f575f0f5ab67616d00001e0223290120a609a65e14cfe018ab67616d00001e02e8b066f70c206551210d902b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e021f7077ae1018b5fbab08dfa8ab67616d00001e0221ebf49b3292c3f0f575f0f5ab67616d00001e0223290120a609a65e14cfe018ab67616d00001e02e8b066f70c206551210d902b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e021f7077ae1018b5fbab08dfa8ab67616d00001e0221ebf49b3292c3f0f575f0f5ab67616d00001e0223290120a609a65e14cfe018ab67616d00001e02e8b066f70c206551210d902b",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "Rock",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAAQhWkuDRWsC37yLVXB2dhGYTnvy+4",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2MApeXUtaJZsZyFH5BMZHV/tracks",
+        "total": 59
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2MApeXUtaJZsZyFH5BMZHV",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7zV0LpuckbOkKBsPxCME7X"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7zV0LpuckbOkKBsPxCME7X",
+      "id": "7zV0LpuckbOkKBsPxCME7X",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0228c90366eb01fbb476a981e4ab67616d00001e023829f3d2e72a904be8561cbbab67616d00001e023bf0683f6ac36cc954339d03ab67616d00001e0283c726c3768d0981c76acd38",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0228c90366eb01fbb476a981e4ab67616d00001e023829f3d2e72a904be8561cbbab67616d00001e023bf0683f6ac36cc954339d03ab67616d00001e0283c726c3768d0981c76acd38",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0228c90366eb01fbb476a981e4ab67616d00001e023829f3d2e72a904be8561cbbab67616d00001e023bf0683f6ac36cc954339d03ab67616d00001e0283c726c3768d0981c76acd38",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "TheBoys",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/tqzevvu1y60gxlyv5klli5xxz"
+        },
+        "href": "https://api.spotify.com/v1/users/tqzevvu1y60gxlyv5klli5xxz",
+        "id": "tqzevvu1y60gxlyv5klli5xxz",
+        "type": "user",
+        "uri": "spotify:user:tqzevvu1y60gxlyv5klli5xxz",
+        "display_name": "Omkar"
+      },
+      "public": true,
+      "snapshot_id": "AAAAChTIDLUZMrUMdmWPUshm9UpuojxF",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7zV0LpuckbOkKBsPxCME7X/tracks",
+        "total": 5
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7zV0LpuckbOkKBsPxCME7X",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/60qc52sStGuZhsTxaJEJHN"
+      },
+      "href": "https://api.spotify.com/v1/playlists/60qc52sStGuZhsTxaJEJHN",
+      "id": "60qc52sStGuZhsTxaJEJHN",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e029c4764e50a5a70102694e4b8ab67616d00001e02aedab428267e3a2912092ac8ab67616d00001e02b092dbb02f474b81fc300e24ab67616d00001e02bb25239324c4e16ae01fda36",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e029c4764e50a5a70102694e4b8ab67616d00001e02aedab428267e3a2912092ac8ab67616d00001e02b092dbb02f474b81fc300e24ab67616d00001e02bb25239324c4e16ae01fda36",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e029c4764e50a5a70102694e4b8ab67616d00001e02aedab428267e3a2912092ac8ab67616d00001e02b092dbb02f474b81fc300e24ab67616d00001e02bb25239324c4e16ae01fda36",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "Punjabi1",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAAbafMd2qk7alT4wHEGFLzKE2xs7J2",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/60qc52sStGuZhsTxaJEJHN/tracks",
+        "total": 81
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:60qc52sStGuZhsTxaJEJHN",
+      "primary_color": null
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4nUkNCPcOEvIaXSTo1v8MY"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4nUkNCPcOEvIaXSTo1v8MY",
+      "id": "4nUkNCPcOEvIaXSTo1v8MY",
+      "images": [
+        {
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e021b79f578c973abf93d5d4dbcab67616d00001e021da0a37c5bad81580d49ef05ab67616d00001e02727d531901c07a499498c544ab67616d00001e02a08c7022ea424b2f048b46e9",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e021b79f578c973abf93d5d4dbcab67616d00001e021da0a37c5bad81580d49ef05ab67616d00001e02727d531901c07a499498c544ab67616d00001e02a08c7022ea424b2f048b46e9",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e021b79f578c973abf93d5d4dbcab67616d00001e021da0a37c5bad81580d49ef05ab67616d00001e02727d531901c07a499498c544ab67616d00001e02a08c7022ea424b2f048b46e9",
+          "height": 60,
+          "width": 60
+        }
+      ],
+      "name": "Bollywood 2000s",
+      "owner": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1aff20f6bvf07vf61n22ydv2m"
+        },
+        "href": "https://api.spotify.com/v1/users/1aff20f6bvf07vf61n22ydv2m",
+        "id": "1aff20f6bvf07vf61n22ydv2m",
+        "type": "user",
+        "uri": "spotify:user:1aff20f6bvf07vf61n22ydv2m",
+        "display_name": "Utkarsh Kanade"
+      },
+      "public": true,
+      "snapshot_id": "AAAA+DTntmeZYi0njvasJZd4Z0YgaJIZ",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4nUkNCPcOEvIaXSTo1v8MY/tracks",
+        "total": 170
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4nUkNCPcOEvIaXSTo1v8MY",
+      "primary_color": null
+    }
+  ]
+}
