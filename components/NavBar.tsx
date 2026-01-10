@@ -1,7 +1,92 @@
-import React from 'react'
+"use client";
+import React, { useEffect, useState } from "react";
+import Image from "next/image";
+import { Sun, Moon, Menu, X } from "lucide-react";
+import { useTheme } from "next-themes";
+
+const scrollToTop = () => {
+  window.scrollTo({ top: 0, behavior: "smooth" });
+};
 
 export default function NavBar() {
+  const [mounted, setMounted] = useState(false);
+  const [isOpen, setIsOpen] = useState(false);
+  const { theme, setTheme } = useTheme();
+
+  // useEffect ensures the component is mounted before we show the UI
+  // This prevents hydration errors with icons
+  useEffect(() => setMounted(true), []);
+
+  if (!mounted) return null;
+
   return (
-    <div className=''>NavBar</div>
-  )
+    <nav className="bg-[var(--background)] text-[var(--foreground)] shadow-lg relative border-b border-gray-200 dark:border-gray-800 transition-colors duration-300">
+      <div className="flex items-center justify-between px-6 md:px-10 py-4">
+        <div className="flex-shrink-0">
+          <Image
+            className="rounded-full cursor-pointer"
+            src="/profile.jpg"
+            alt="Logo"
+            width={60} // Smaller for mobile by default
+            height={60}
+            priority
+            onClick={scrollToTop}
+          />
+        </div>
+
+        {/* Hamburger Icon (Mobile Only) */}
+        <div className="md:hidden flex space-x-5">
+          <div>
+            <button onClick={() => setIsOpen(!isOpen)} className="p-2">
+              {isOpen ? <X size={24} /> : <Menu size={24} />}
+            </button>
+          </div>
+
+          <div className="flex items-center flex-col">
+            <button
+              onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+              className="p-2 rounded-lg bg-white-500 dark:bg-gray-800 transition-all cursor-pointer"
+            >
+              {theme === "dark" ? (
+                <Sun size={20} color="yellow" />
+              ) : (
+                <Moon size={20} color="white" />
+              )}
+            </button>
+          </div>
+        </div>
+
+        {/* Desktop Links (Hidden on Mobile) */}
+        <div className="hidden md:flex md:space-x-10 lg:space-x-20 font-medium text-lg cursor-pointer">
+          <div className="hover:underline">About Me</div>
+          <div className="hover:underline">Experience</div>
+          <div className="hover:underline">Projects</div>
+          <div className="hover:underline">Playlists</div>
+          <div className="hover:underline">Contact Me</div>
+          <div className="flex items-center flex-col">
+            <button
+              onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+              className="p-2 rounded-lg bg-white-500 dark:bg-gray-800 transition-all cursor-pointer"
+            >
+              {theme === "dark" ? (
+                <Sun size={20} color="yellow" />
+              ) : (
+                <Moon size={20} color="white" />
+              )}
+            </button>
+          </div>
+        </div>
+      </div>
+      {/* Mobile Menu Dropdown */}
+      {isOpen && (
+        <div className="md:hidden absolute top-full left-0 w-full bg-[var(--background)] text-[var(--foreground)] flex flex-col items-center space-y-4 py-6 font-medium shadow-xl z-50">
+          <div onClick={() => setIsOpen(false)}>About Me</div>
+          <div onClick={() => setIsOpen(false)}>Experience</div>
+          <div onClick={() => setIsOpen(false)}>Projects</div>
+          <div onClick={() => setIsOpen(false)}>Playlists</div>
+          <div onClick={() => setIsOpen(false)}>Contact Me</div>
+        </div>
+      )}
+    </nav>
+  );
 }
