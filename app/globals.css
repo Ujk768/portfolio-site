@@ -23,3 +23,9 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
 }
+
+@layer utilities {
+  .animate-bounce-short {
+    animation: bounce 1s ease-in-out 3; /* Plays for 3 seconds */
+  }
+}
