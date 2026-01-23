@@ -12,16 +12,10 @@ export default function NavBar() {
   const [isOpen, setIsOpen] = useState(false);
   const { theme, setTheme } = useTheme();
 
-  // fix hydration error
-  useEffect(() => {
-    setIsOpen(false);
-  });
-
   return (
     <nav
       className={` text-foreground shadow-lg relative transition-colors duration-300 
-        border-b-2 border-gray-800
-        ${theme === "dark" ? "bg-gray-800" : "bg-white"}
+        border-b-2 p-2
       `}
     >
       <div className="flex items-center justify-between px-6 md:px-10 py-4">
@@ -30,8 +24,8 @@ export default function NavBar() {
             className="rounded-full cursor-pointer"
             src="/profile.jpg"
             alt="Logo"
-            width={60} // Smaller for mobile by default
-            height={60}
+            width={100} // Smaller for mobile by default
+            height={100}
             priority
             onClick={scrollToTop}
           />
@@ -92,7 +86,9 @@ export default function NavBar() {
       </div>
       {/* Mobile Menu Dropdown */}
       {isOpen && (
-        <div className="md:hidden absolute top-full left-0 w-full bg-background text-foreground flex flex-col items-center space-y-4 py-6 font-medium shadow-xl z-50">
+        <div
+          className={`md:hidden absolute top-full left-0 w-full  text-foreground flex flex-col items-center space-y-4 py-6 font-medium shadow-xl z-50 ${theme === "dark" ? "bg-gray-900 border-gray-700 " : "bg-white border-gray-400 "}`}
+        >
           <div onClick={() => setIsOpen(false)}>About Me</div>
           <div onClick={() => setIsOpen(false)}>Experience</div>
           <div onClick={() => setIsOpen(false)}>Projects</div>
