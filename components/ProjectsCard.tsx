@@ -20,7 +20,7 @@ export default function ProjectsCard({
     <a
       href={projectUrl}
       target="_blank"
-      className={`${theme === "dark" ? "bg-gray-800 border border-gray-700" : "bg-gray-100 border border-gray-200"} p-4 rounded-lg shadow-md w-full `}
+      className={`dark:bg-gray-800 dark:border-gray-700 bg-gray-100 border border-gray-200 p-4 rounded-lg shadow-md w-full `}
     >
       <Image src={imageUrl} alt={title} width={300} height={200} />
       <div className="p-4">

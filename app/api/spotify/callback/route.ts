@@ -5,7 +5,10 @@ export async function GET(req: Request) {
   const code = searchParams.get("code");
 
   if (!code) {
-    return NextResponse.json({ error: "No code provided" }, { status: 400 });
+    return NextResponse.json(
+      { error: "No code provided" },
+      { status: 400 }
+    );
   }
 
   const response = await fetch("https://accounts.spotify.com/api/token", {
@@ -23,15 +26,11 @@ export async function GET(req: Request) {
     body: new URLSearchParams({
       grant_type: "authorization_code",
       code,
-      redirect_uri: "http://localhost:3000/api/spotify/callback",
+      redirect_uri:
+        "https://portfolio-project-teal-ten.vercel.app/api/spotify/callback",
     }),
   });
 
   const data = await response.json();
-
-  /**
-   * IMPORTANT:
-   * data.refresh_token → copy this and store in .env
-   */
   return NextResponse.json(data);
 }

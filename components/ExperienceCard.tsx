@@ -31,7 +31,7 @@ export default function ExperienceCard({
         damping: 20,
         delay: 0.5 
       }}
-      className={`${theme === "dark" ? "bg-gray-800 border border-gray-700" : "bg-gray-100 border border-gray-200"} p-4 rounded-lg shadow-md w-full`}
+      className={`p-4 rounded-lg shadow-md w-full dark:bg-gray-800 border border-gray-700bg-gray-100 border border-gray-200`}
     >
       <div className="flex md:flex-row flex-col items-center mb-4 ">
         <div className="md:w-1/2 flex justify-center items-center mb-4 md:mb-0">

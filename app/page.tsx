@@ -1,7 +1,9 @@
 import HomeClient from "@/components/HomeClient";
 import SpotifyNowPlaying from "@/components/SpotifyNowPlaying";
-import { Suspense } from "react";
+import { useTheme } from "next-themes";
+import { Suspense, use } from "react";
 export const dynamic = "force-dynamic";
+
 
 export default function Home() {
   return (

@@ -1,13 +1,13 @@
 "use client";
 import React, { Suspense } from "react";
-import { useTheme } from "next-themes";
+
 import Image from "next/image";
 import { InfiniteCarousel } from "./InfiniteCarousel";
 import ExperienceCard from "./ExperienceCard";
 import ProjectsCard from "./ProjectsCard";
 
 export default function HomeClient() {
-  const { theme } = useTheme();
+ 
   return (
     <div>
       <section
@@ -17,14 +17,14 @@ export default function HomeClient() {
           <div className="md:w-1/4 flex justify-center items-center">
             <div className="animate-[bounce_1s_ease-in-out_2]">
                 <Image
-                  className={`rounded-full aspect-square object-cover ${theme === "dark" ? "block" : "hidden"}`}
+                  className={`rounded-full aspect-square object-cover dark:block hidden`}
                   src="/kakashi-dark.jpg"
                   alt="Kakashi"
                   width={300}
                   height={300}
                 />
                 <Image
-                  className={`rounded-full aspect-square object-cover ${theme === "dark" ? "hidden" : "block"}`}
+                  className={`rounded-full aspect-square object-cover block dark:hidden`}
                   src="/kakashi-light.webp"
                   alt="Kakashi"
                   width={300}
@@ -77,7 +77,7 @@ export default function HomeClient() {
       </section>
       <section>
         <h1 className="text-center font-bold text-xl">Experience</h1>
-        <div className="flex flex-col w-full p-5 gap-10">
+        <div className="flex flex-col w-full p-5 gap-10 ">
           <ExperienceCard
             logo="/logo1.png"
             title="Bajaj Finserv Limited, Pune, India"
@@ -111,7 +111,7 @@ export default function HomeClient() {
         </div>
       </section>
       <section
-        className={`${theme === "dark" ? "bg-gray-900" : "bg-white"} pt-5 pb-5  flex flex-col justify-center items-center`}
+        className={`bg-white dark:bg-gray-900 pt-5 pb-5  flex flex-col justify-center items-center`}
       >
         <h1 className="font-bold text-xl  md:text-center text-left">
           Projects & Hackathons
